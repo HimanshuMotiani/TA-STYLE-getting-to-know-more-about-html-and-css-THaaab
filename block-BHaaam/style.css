@@ -50,16 +50,36 @@ table {
 .test1{
     background-color:royalblue;
 }
-
+body{
+    line-height: 1.5;
+}
 h1{
     font-size: 48px;
+    margin-bottom: 40px;
 }
 p{
     font-size: 18px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 h3{
     font-size: 28px;
+    margin-bottom: 20px;
 }
 .link-col{
     color: teal;
+}
+.main-header{
+    text-align: center;
+    margin-bottom: 60px;
+    background-color: yellowgreen;
+    padding:20px;
+}
+article{
+    margin-bottom: 60px;
+}
+.footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
 }
